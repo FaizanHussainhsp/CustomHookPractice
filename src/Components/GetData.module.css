@@ -1,0 +1,7 @@
+.get {
+  flex: 1;
+  background-color: chocolate;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

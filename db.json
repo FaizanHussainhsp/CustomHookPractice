@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "title": "programming",
+      "id": "1"
+    },
+    {
+      "title": "front end developerr",
+      "id": "3"
+    },
+    {
+      "title": "hussain",
+      "id": "4"
+    },
+    {
+      "title": "Enter Data",
+      "id": "6"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
